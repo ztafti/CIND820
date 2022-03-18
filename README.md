@@ -13,10 +13,11 @@ This repository includes the data, codes and documents for the "Predictive facto
 **This repository includes the following branches:**
 
 1. Data: There is the raw dataset, as well as a sample of the questionnaire and a picture of what questions looked like on the screen in this branch.
-2. Code: There are (.ipynb) files available in this branch. 
-  a. Data Preparation
-  b. EDA
-  c. Decission Tree Model
+2. Code: There are (.ipynb) files available in this branch:
+A. Data Preparation , 
+B. EDA , 
+C. Decission Tree Model
   
-  \n_I Split the codes in 3 parts but EDA and Model might not run as the preparation part is removed from them_
+"I Split the codes in 3 parts but EDA and Model might not run as the preparation part is removed from them"
+
 3. Technical Reports: The (.pdf) files of the code I ran are available in this branch. 
