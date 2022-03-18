@@ -17,5 +17,6 @@ This repository includes the data, codes and documents for the "Predictive facto
   a. Data Preparation
   b. EDA
   c. Decission Tree Model
-  *I Split the codes in 3 parts but EDA and Model might not run as the preparation part is removed from them
+  
+  \n_I Split the codes in 3 parts but EDA and Model might not run as the preparation part is removed from them_
 3. Technical Reports: The (.pdf) files of the code I ran are available in this branch. 
